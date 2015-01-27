@@ -21,9 +21,6 @@ Usage
 </b>
 ```
 Christian-Papathanasious-iMac:igindex-library chris$ python
-Python 2.7.6 (default, Sep  9 2014, 15:04:36) 
-[GCC 4.2.1 Compatible Apple LLVM 6.0 (clang-600.0.39)] on darwin
-Type "help", "copyright", "credits" or "license" for more information.
 >>> from igindex import igservice
 >>> c = igservice()
 {"accountType":"SPREADBET","accountInfo":{"balance":0.0,"deposit":0.0,"profitLoss":0.0,"available":0.0},"currencyIsoCode":"GBP","currencySymbol":"ÂŁ","currentAccountId":"****","lightstreamerEndpoint":"https://apd.marketdatasystems.com","accounts":[{"accountId":"*****","accountName":"Spread bet","preferred":true,"accountType":"SPREADBET"},{"accountId":"***","accountName":"Stockbroking","preferred":false,"accountType":"PHYSICAL"}],"clientId":"******","timezoneOffset":0,"hasActiveDemoAccounts":true,"hasActiveLiveAccounts":true,"trailingStopsEnabled":false,"reroutingEnvironment":null,"dealingEnabled":true}
